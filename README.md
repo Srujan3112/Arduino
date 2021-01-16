@@ -90,7 +90,7 @@ Please provide as much context as possible, as well as the information requested
 - IDE settings (board choice, flash size)
 - etc
 
-### Contributing
+### Contributing guide
 
 For minor fixes of code and documentation, please go ahead and submit a pull request.  A gentle introduction to the process can be found [here](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/).
 
